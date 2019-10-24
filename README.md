@@ -17,3 +17,5 @@ Complexity Analysis of Heap Sort :
   a.  Heap sort is not a Stable sort, and requires a constant space for sorting a list.
    b. Heap Sort is very fast and is widely used for sorting.
 
+also we make min heap .
+
